@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "RDS_MCFSI_IDC_Insight_DemopRDS_ShopperCopilot_CreateLHTables",
+    "description": ""
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "d6735243-f0d1-beab-4f23-dcae732170e4"
+  }
+}

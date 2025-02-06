@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "RDS_MCFSI_IDC_Insight_DemopRDS_ShopperCopilot_OptimizeAndCompactTables",
+    "description": ""
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "73c2f8d2-13ce-b6d4-461d-d8539a155fe2"
+  }
+}
